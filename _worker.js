@@ -3,7 +3,7 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = 'e5f6b814-1653-4288-83de-c63851b2ac85';
+let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 
 const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
 
@@ -964,10 +964,10 @@ function getVLESSConfig(userIDs, hostName) {
 		const vlessSec = 'vless://' + userID + '@' + proxyIP + commonUrlPart;
 		return `################################################################
 Telegram Channel!
-t.me/nkka_404
+t.me/Yoeyar007
 ---------------------------------------------------------------
 Contact to developer
-t.me/nkka404
+t.me/Yoeyar007
 ---------------------------------------------------------------
 Developed by 4̷ ̷ ̷4̷
 ################################################################
